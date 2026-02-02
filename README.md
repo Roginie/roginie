@@ -1,10 +1,6 @@
 <h2 align="left"># 👋 Olá! Eu sou Roginie 
-
-🎓 Estudante de Ciência de Dados no Senai, apaixonado por tecnologia e inovação.  
-💻 Com experiência em sistemas de atendimento, PDV e criação de lojas no iFood.  
-🎮 Gamer nas horas vagas, jogando Call of Duty no modo Ressurgência e explorando o potencial de PCs de alto desempenho.  
-🌱 Atualmente, estou desenvolvendo projetos focados em cibersegurança e sustentabilidade no ambiente de trabalho.  
-📈 Busco oportunidades de estágio ou trabalho na área de TI para expandir meu conhecimento e contribuir com soluções impactantes.
+Formado em Data Science, 
+Sou desenvolvedor Jr. 
 
 ---
 
