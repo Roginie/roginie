@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=roginie&label=PROFILE+VIEWS&color=00FF41&style=flat-square" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=roginie.roginie&label=PROFILE%20VIEWS&color=00FF41" alt="profile views" />
 </div>
 
 ---
@@ -89,7 +89,3 @@ class RoginieAlmeida:
 
 - LinkedIn: [roginie-almeida](https://www.linkedin.com/in/roginie-almeida-5192b0203/)
 - E-mail: roginie.santos@nibi.com.br
-
-<br>
-
-<img src="https://raw.githubusercontent.com/roginie/roginie/output/snake.svg" alt="Snake animation" />
