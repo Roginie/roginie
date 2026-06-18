@@ -1,13 +1,10 @@
-<h1 align="center">Roginiê Almeida</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=200&section=header&text=Rogini%C3%AA%20Almeida&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cientista%20de%20Dados%20%7C%20Desenvolvedor&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-<p align="center">
-  Cientista de Dados em formação | Desenvolvedor Jr.
-</p>
-
-<p align="center">
-  Trabalho com análise de dados, automação e desenvolvimento back-end,
-  com foco em Python, bancos de dados e projetos de IoT.
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/roginie-almeida-5192b0203/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cientista+de+Dados+em+forma%C3%A7%C3%A3o;Desenvolvedor+Python+%7C+Flask;Bancos+de+Dados+SQL;IoT+com+Arduino+e+MQTT" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
@@ -50,8 +47,8 @@
 
 ### Contato
 
+- LinkedIn: [roginie-almeida](https://www.linkedin.com/in/roginie-almeida-5192b0203/)
 - E-mail: roginie.santos@nibi.com.br
-- LinkedIn: _(adicione o link do seu perfil aqui)_
 
 <br>
 
