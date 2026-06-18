@@ -1,13 +1,17 @@
-<h1 align="center">👋 Olá! Eu sou a Roginiê Almeida</h1>
+<h1 align="center">Roginiê Almeida</h1>
 
 <p align="center">
-  <b>Cientista de Dados</b> em formação • Desenvolvedora Jr.<br>
-  Apaixonada por dados, automação e Internet das Coisas (IoT) 🚀
+  Cientista de Dados em formação | Desenvolvedor Jr.
+</p>
+
+<p align="center">
+  Trabalho com análise de dados, automação e desenvolvimento back-end,
+  com foco em Python, bancos de dados e projetos de IoT.
 </p>
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+### Tecnologias
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;&nbsp;
@@ -25,29 +29,29 @@
 
 ---
 
-### 🌱 No que venho trabalhando
+### Sobre meu trabalho
 
-- 📊 **Ciência de Dados** — análise e tratamento de dados com Python
-- 🗄️ **Banco de Dados SQL** — modelagem e consultas (DDL, DML, DQL, procedures)
-- 🌐 **APIs REST** com Flask
-- 🤖 **IoT** — Arduino/ESP e comunicação via MQTT
-- 🕸️ **Web Scraping** — coleta e automação de dados
+- Análise e tratamento de dados com Python
+- Modelagem e consultas em bancos de dados SQL
+- APIs REST com Flask
+- Projetos de IoT com Arduino e comunicação via MQTT
+- Web scraping e automação de coleta de dados
 
 ---
 
-### 📈 Minhas estatísticas
+### Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roginie&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&hide_border=false&custom_title=Estat%C3%ADsticas%20no%20GitHub" height="160" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roginie&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&hide_border=false" height="160" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roginie&layout=compact&langs_count=6&theme=gruvbox_light&hide_border=false" height="160" alt="top languages" />
 </div>
 
 ---
 
-### 📫 Vamos nos conectar?
+### Contato
 
-- ✉️ **E-mail:** roginie.santos@nibi.com.br
-- 💼 **LinkedIn:** _(adicione o link do seu perfil aqui)_
+- E-mail: roginie.santos@nibi.com.br
+- LinkedIn: _(adicione o link do seu perfil aqui)_
 
 <br>
 
