@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=Rogini%C3%AA%20Almeida&fontSize=48&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Cientista%20de%20Dados%20%7C%20Desenvolvedor&descSize=18&descAlignY=58&descColor=ffffff" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00E5FF&height=200&section=header&text=Rogini%C3%AA%20Almeida&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cientista%20de%20Dados%20%7C%20Desenvolvedor&descSize=18&descAlignY=58&descColor=E0FFFF" width="100%" alt="header" />
 
 <div align="center">
   <a href="https://www.linkedin.com/in/roginie-almeida-5192b0203/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Cientista+de+Dados+em+forma%C3%A7%C3%A3o;Desenvolvedor+Python+%7C+Flask;%3E+SELECT+*+FROM+projetos;%3E+print('Bem-vindo+ao+meu+perfil')" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Cientista+de+Dados+em+forma%C3%A7%C3%A3o;Desenvolvedor+Python+%7C+Flask;%3E+SELECT+*+FROM+projetos;%3E+print('Bem-vindo+ao+meu+perfil')" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=roginie.roginie&label=PROFILE%20VIEWS&color=00FF41" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=roginie.roginie&label=PROFILE%20VIEWS&color=7F00FF" alt="profile views" />
 </div>
 
 ---
@@ -59,12 +59,12 @@ class RoginieAlmeida:
 ### Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roginie&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=39D353" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roginie&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=39D353" height="165" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roginie&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A855F7&text_color=C9D1D9" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roginie&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=A855F7" height="165" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roginie&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=39D353&dates=8B949E" height="165" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=roginie&hide_border=true&background=0D1117&stroke=A855F7&ring=00E5FF&fire=FF2E97&currStreakLabel=00E5FF&sideLabels=A855F7&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9&dayNums=C9D1D9" height="165" alt="streak" />
 </div>
 
 ---
@@ -72,7 +72,7 @@ class RoginieAlmeida:
 ### Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roginie&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=roginie&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </div>
 
 ---
@@ -80,7 +80,7 @@ class RoginieAlmeida:
 ### Atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roginie&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roginie&bg_color=0D1117&color=00E5FF&line=A855F7&point=FF2E97&area=true&hide_border=true" width="100%" alt="activity graph" />
 </div>
 
 ---
