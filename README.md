@@ -89,3 +89,12 @@ class RoginieAlmeida:
 
 - LinkedIn: [roginie-almeida](https://www.linkedin.com/in/roginie-almeida-5192b0203/)
 - E-mail: roginie.santos@nibi.com.br
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roginie/roginie/output/snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/roginie/roginie/output/snake.svg" width="100%" />
+  </picture>
+</div>
