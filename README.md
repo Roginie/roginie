@@ -102,6 +102,13 @@ class RoginieAlmeida:
 
 ---
 
+### Contribuições em 3D
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="grafico 3d de contribuicoes" />
+</div>
+
+---
 <div align="center">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/roginie/roginie/output/snake-dark.svg?v=2" width="100%" />
 </div>
