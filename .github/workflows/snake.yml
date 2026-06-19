@@ -7,6 +7,10 @@ on:
   push:
     branches: [main]
 
+concurrency:
+  group: snake-output
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
