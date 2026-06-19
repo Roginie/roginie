@@ -85,6 +85,24 @@ class RoginieAlmeida:
 
 ---
 
+### Resumo do GitHub
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roginie&theme=2077" width="100%" alt="resumo do perfil" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roginie&theme=2077" height="200" alt="linguagens por repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roginie&theme=2077" height="200" alt="linguagem mais usada em commits" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roginie&theme=2077" height="200" alt="estatisticas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=roginie&theme=2077&utc_offset=-3" height="200" alt="horarios produtivos" />
+</div>
+
+---
+
 ### Contato
 
 - LinkedIn: [roginie-almeida](https://www.linkedin.com/in/roginie-almeida-5192b0203/)
