@@ -69,14 +69,6 @@ class RoginieAlmeida:
 
 ---
 
-### Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roginie&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</div>
-
----
-
 ### Atividade
 
 <div align="center">
